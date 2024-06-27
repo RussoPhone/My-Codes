@@ -1,0 +1,11 @@
+matricula = int(input('Insira o número da matricula do aluno:'))
+nome = input('Informe o nome do aluno:')
+curso = input('Informe o curso do aluno:')
+disciplina = input('informe a disciplina')
+nota = float(input('Informe a nota'))
+
+print('Matricula................', matricula)
+print('Nome.....................', nome)
+print('Curso....................', curso)
+print('Disciplina...............', disciplina)
+print('Nota.....................', nota)
